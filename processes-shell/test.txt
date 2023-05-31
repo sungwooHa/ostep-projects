@@ -1,0 +1,7 @@
+In this project, you'll build a simple Unix shell. The shell is the heart of the command-line interface, and thus is central to the Unix/C programming environment. Mastering use of the shell is necessary to become proficient in this world; knowing how the shell itself is built is the focus of this project.
+
+There are three specific objectives to this assignment:
+
+To further familiarize yourself with the Linux programming environment.
+To learn how processes are created, destroyed, and managed.
+To gain exposure to the necessary functionality in shells.
